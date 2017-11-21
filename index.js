@@ -36,4 +36,3 @@ function displayRepositories() {
     req.open("GET", uri)
     req.send()
   }
-
